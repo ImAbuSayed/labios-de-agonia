@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Labios de agonía
+
+This log tracks the cryptographic history and versioning for the song **Labios de agonía** (labios-de-agonia).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T02:09:43.595189 | `v1` | `8e9708a50145487adf8ace59d5f8657ff8840fbdb4cf87edbead44749414dae6` | `3d63ce3c56f5d3fe8fcda2cb4b614b8c4f3b7097ddb7f72997daab44316e059e` | `2026-06-20_labios-de-agonia-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
