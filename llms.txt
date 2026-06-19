@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-de-agonia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Labios de agonía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-agonia/) |
+| **Get License** | [Get License For Labios de agonía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-agonia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3750)
+- [Telegram](https://t.me/AbuSayedMusic/3767)
 
 ---
 
