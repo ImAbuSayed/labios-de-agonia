@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Labios de agonía |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-de-agonia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Labios de agonía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-agonia/) |
+| **Get License** | [Get License For Labios de agonía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-agonia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Tu mirada me llama en medio de la disco, yeh
-> Labios de agonía, un pecado que no evito
-> Me acerco despacito con un flow distinto
-> Esta noche es nuestra, yo te sigo el instinto
+> Labios de agonía, tonight you're mine
+> Seducing me slow, like sweet poisoned wine
+> Your body's a rhythm, I'm losing control
+> Labios de agonía, you're taking my soul
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
