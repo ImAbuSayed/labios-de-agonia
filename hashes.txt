@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Labios d
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T02:09:43.595189 | `v1` | `8e9708a50145487adf8ace59d5f8657ff8840fbdb4cf87edbead44749414dae6` | `3d63ce3c56f5d3fe8fcda2cb4b614b8c4f3b7097ddb7f72997daab44316e059e` | `2026-06-20_labios-de-agonia-v1.txt` |
+| 2026-06-20T02:36:09.292323 | `v2` | `d51b8fca8d6d14ffc3fbaa7f1da7f05db7f6a455630ec8a934d7d5057841ca28` | `2fd400c476858709632caf0da915b0258dd9fd83fb1aa836d848037bec89d21e` | `2026-06-20_labios-de-agonia-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
