@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-de-agonia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Labios de agonía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-agonia/) |
+| **Get License** | [License this song: Labios de agonía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-agonia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu mirada me llama en medio de la disco, yeh
+> Labios de agonía, un pecado que no evito
+> Me acerco despacito con un flow distinto
+> Esta noche es nuestra, yo te sigo el instinto
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
